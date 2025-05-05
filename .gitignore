@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Env file
+.env
+
+# DB
+*.db
+
+# Alembic
+migrations/
+alembic.ini
+
+# IDE
+.vscode/
