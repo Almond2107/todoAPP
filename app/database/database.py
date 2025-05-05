@@ -18,7 +18,7 @@ class Base(DeclarativeBase):
 
 
 DATABASE_URL = f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
-# DATABASE_URL = "postgresql+psycopg2://postgres:postgres@localhost:5432/bilimdon_clone"
+
 
 engine = create_engine(DATABASE_URL)
 
