@@ -1,4 +1,4 @@
-# 📝 Todo App
+# 📝 AlmondTodo App
 
 ## Loyiha haqida (O‘zbekcha)
 
