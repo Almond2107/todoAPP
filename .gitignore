@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Virtual environment
-venv/
+todovenv/
 
 # Env file
 .env
